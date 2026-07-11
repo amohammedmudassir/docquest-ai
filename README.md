@@ -72,12 +72,16 @@ Full step-by-step instructions also available in [`steps.txt`](./steps.txt).
 
 ## 📁 Project Structure
 
+```
 docquest-rag-pdf-chatbot/
 ├── app.py                # Main Streamlit application
 ├── requirements.txt      # Python dependencies
-├── Aptfile / packages.txt / setup.sh   # Deployment configs
+├── Aptfile
+├── packages.txt
+├── setup.sh              # Deployment configs
 ├── steps.txt             # Local run instructions
 └── README.md
+```
 
 ## 🔮 Future Improvements
 
