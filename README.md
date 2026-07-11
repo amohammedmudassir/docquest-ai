@@ -2,7 +2,7 @@
 
 **Upload any PDF and ask questions about it in plain English — powered by RAG (Retrieval-Augmented Generation), LangChain, and Groq's LLM inference.**
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here once deployed]
+🔗 **Live Project:** https://docquest-ai-4s666g2sfrtsnkbhfowsab.streamlit.app/
 
 ---
 
